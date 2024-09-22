@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "react",
   "private": true,
   "version": "0.0.0",
@@ -34,4 +35,17 @@
     "typescript": "^5.2.2",
     "vite": "^5.3.1"
   }
+=======
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.6.4",
+        "laravel-vite-plugin": "^1.0.0",
+        "vite": "^5.0.0"
+    }
+>>>>>>> 770a65867e4f81671293df79b7dc61d557d3db59
 }

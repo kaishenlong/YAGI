@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 *
 !data/
 !.gitignore
@@ -28,3 +29,24 @@ dist-ssr
 *.sln
 *.sw?
 >>>>>>> b7fd154598e209496c7bc76b040ad7ec97410280
+=======
+/.phpunit.cache
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+/.fleet
+/.idea
+/.vscode
+>>>>>>> 770a65867e4f81671293df79b7dc61d557d3db59
